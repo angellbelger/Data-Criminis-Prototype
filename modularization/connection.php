@@ -5,7 +5,6 @@ $hostname = "localhost";
 $database = "bbc_stock";
 $user = "root";
 $password = "";
-/*7CN3m[^dde)u*/
 
 $mysqli = new mysqli($hostname, $user, $password, $database);
 
